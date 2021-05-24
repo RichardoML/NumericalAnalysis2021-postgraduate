@@ -1,0 +1,6 @@
+# NumericalAnalysis2021-postgraduate
+华中科技大学2020级研究生数值分析-2021年春季
+包含当时上课所有的ppt，以及一本老师给的参考书籍。
+
+Lab文件夹下是课程大作业，文件夹下包括三个python文件，分别为求解对应题目的python代码，
+Lab/Lab2-1为Lab2.1所输出的三个函数的Lagrange图像
